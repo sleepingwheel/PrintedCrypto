@@ -1,5 +1,4 @@
 +++
-draft = true
 gallery = ["/uploads/Accuracy.png", "/uploads/Account.png", "/uploads/Activation.png", "/uploads/Activate-Your-Campaigns.png"]
 
 +++
