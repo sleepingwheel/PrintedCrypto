@@ -1,0 +1,46 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Hugo Serif Theme"
+themesDir = "themes"
+theme = "hugo-serif-theme"
+
+[params]
+  google_analytics_id = ""
+
+  [params.logo]
+    mobile = "/images/logo-mobile.svg"
+    standard  = "/images/logo.svg"
+    alt = "Serif - A Hugo Business Theme"
+
+  [params.homepage_meta_tags]
+    meta_description = "We are creating a new type of agency"
+    meta_og_title = "A new agency"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-serif.netlify.com"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_description = "Marketing agency"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@pastelpad"
+    meta_twitter_creator = "@pastelpad"
+
+# Main Menu
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Team"
+    url = "/team/"
+    weight = 2
+
+# Footer Menu
+[[menu.footer]]
+	name = "Home"
+	url = "/"
+    weight = 1
+
+[[menu.footer]]
+	name = "Contact"
+	url = "/contact/"
+    weight = 2
