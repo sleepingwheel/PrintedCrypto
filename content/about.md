@@ -1,7 +1,8 @@
 ---
 title: About
 menu:
-  main: {}
+  main:
+    weight: 1
 
 ---
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
