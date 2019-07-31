@@ -6,7 +6,7 @@ title = "Hugo Serif Theme"
 [[menu.footer]]
 name = "Contact"
 url = "/contact/"
-weight = 2
+weight = 3
 [[menu.footer]]
 name = "Home"
 url = "/"

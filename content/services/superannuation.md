@@ -6,7 +6,7 @@ featured: true
 menu:
   footer:
     name: super
-    weight: 3
+    weight: 2
 
 ---
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
