@@ -7,4 +7,5 @@ fields:
   config: {}
   label: gallery
 pages:
+- content/team/new page of mine.md
 - content/gallery.md
